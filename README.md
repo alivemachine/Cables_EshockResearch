@@ -6,5 +6,3 @@ We try multiple ways that could quickly generate various result corresponding to
   
 Live experience:  
 https://alivemachine.io/elektrashock/bstevr01/  
-Editing platform:  
-https://cables.gl/p/6000c7932f5883619f5320e6  
